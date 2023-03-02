@@ -1,0 +1,15 @@
+:root{
+    --variableName : rgb(185, 88, 88); 
+    --WebsitBackground: rgb(83, 36, 222); 
+}
+
+
+/*Reset*/
+*{
+    margin: 0;
+}
+
+html{
+    height: 100vh;
+    background-color: beige;
+}
